@@ -1,0 +1,17 @@
+{
+    "name": "jun/jconfig",
+    "type": "project",
+    "version": "1.0",
+    "description": "config class",
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4": {
+            "LSYS\\" : "src/classes/LSYS/"
+        },
+        "files": ["src/Bootstarp.php"]
+    },
+    "require": {
+        "php": ">=5.5"
+    }
+}
+

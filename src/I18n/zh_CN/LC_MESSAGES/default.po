@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-12-19 16:48+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/LSYS/Config/File.php:108
+msgid "file config not support set method"
+msgstr "文件配置不支持设置操作"
+
+#: classes/LSYS/Config/FileRW.php:33
+msgid "config :file not exist"
+msgstr "配置 :file 不存在"
+
+#: classes/LSYS/Config/FileRW.php:35
+msgid "file :file can't be write"
+msgstr "文件 :file 不能写"
+
+#: classes/LSYS/Config/FileRW.php:75
+msgid "can't write config to :file"
+msgstr "配置不能写入 :file"
+
